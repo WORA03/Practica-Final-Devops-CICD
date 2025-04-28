@@ -1,0 +1,12 @@
+{
+  "name": "practica-devops-apache",
+  "version": "1.0.0",
+  "description": "Práctica DevOps CI/CD con GitHub Pages usando Apache",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
